@@ -34,3 +34,4 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 ## License
 Ads-Library-API-Script-Repository is licensed under the Facebook Platform License, as found in the LICENSE file.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
