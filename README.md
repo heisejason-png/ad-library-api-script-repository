@@ -1,4 +1,4 @@
-# Ads-Library-API-Script-Repository
+## Ads-Library-API-Script-Repository
 Ads-Library-API-Script-Repository is a set of code examples to help user/researchers understand how the Facebook Ads Library API works. It also provides a simple command-line interface(CLI) for users to easily use the Facebook Ads Library API.
 
 ## Examples
@@ -33,4 +33,4 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
 ## License
 Ads-Library-API-Script-Repository is licensed under the Facebook Platform License, as found in the LICENSE file.
-Created by Jason Scott Heise
+Created by Jason Heise
